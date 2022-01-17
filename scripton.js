@@ -6,14 +6,14 @@ var data =
 };
 var designi =
 {
-	bk : "img/back.jpg",
+	bk : "file:///android_res/drawable/back.jpg",
 	///for android: file:///android_res/drawable/back.jpg
-	frn : "img/skydron.png"
+	frn : "file:///android_res/drawable/skydron.png"
 	//for android: file:///android_res/drawable/skydron.png
 }
 var designd =
 {
-	bk : ".jpg",
+	bk : "file:///android_res/drawable/back2.jpg",
 	//for android: file:///android_res/drawable/back2.jpg
 }
 var dev =
