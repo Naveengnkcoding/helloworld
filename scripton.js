@@ -21,7 +21,7 @@ var dev =
 	code : "DeveloperN",
 	s : 3000,
 	op : 1,
-    loc : "developer.html"
+    	loc : "developer.html"
 }
 function showAndroidToast(toast){
 	Android.showToast(toast);
