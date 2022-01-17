@@ -23,6 +23,3 @@ var dev =
 	op : 1,
     loc : "developer.html"
 }
-function showAndroidToast(toast){
-	Android.showToast(toast);
-}
