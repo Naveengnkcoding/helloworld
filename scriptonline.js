@@ -1,7 +1,7 @@
 var data = 
 {
-	id : "admin",
-	pas : "admin",
+	id : "skydron",
+	pas : "skydron40ns",
 	ip : "http://192.168.1.1/"
 };
 var designi =
@@ -18,7 +18,7 @@ var designd =
 }
 var dev =
 {
-	code : "DeveloperN",
+	code : "Developer",
 	s : 3000,
 	op : 1,
     loc : "developer.html"
