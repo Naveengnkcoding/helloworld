@@ -1,7 +1,7 @@
 var data = 
 {
-	id : "skydron",
-	pas : "skydron40ns",
+	id : "Skydron",
+	pas : "Skydron40ns",
 	ip : "http://192.168.1.1/"
 };
 var designi =
