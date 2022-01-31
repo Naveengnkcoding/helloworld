@@ -18,7 +18,7 @@ var designd =
 }
 var dev =
 {
-	code : "Developer",
+	code : "DeveloperN",
 	s : 3000,
 	op : 1,
     loc : "developer.html"
